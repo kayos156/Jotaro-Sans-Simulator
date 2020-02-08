@@ -54,19 +54,15 @@
 0,SansHead,BlueEye,,,,,,
 0.26666,SansSlam,1,,,,,,
 0,BoneStab,1,54,0.64,0.2,,,
-
 2.32,SansBody,HandUp,,,,,,
 0.26666,SansSlam,0,,,,,,
 0,BoneStab,0,54,0.64,0.2,,,
-
 2.32,SansBody,HandLeft,,,,,,
 0.26666,SansSlam,2,,,,,,
 0,BoneStab,2,54,0.64,0.2,,,
-
 2.32,SansBody,HandRight,,,,,,
 0.26666,SansSlam,3,,,,,,
 0,BoneStab,3,54,0.64,0.2,,,
-
 2.32,GasterBlaster,2,0,240,139,306,0,0.666,0.5
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
 0,GasterBlaster,1,0,0,189,176,45,0.666,0.5
@@ -74,7 +70,6 @@
 0,GasterBlaster,1,640,480,449,436,225,0.666,0.5
 0,GasterBlaster,1,0,480,189,436,315,0.666,0.5
 0,SansBody,HandLeft,,,,,,,
-
 3,SansHead,Default,,,,,,,
 0,SansText,good grief.,,,,,,,
 0,SansHead,BlueEye,,,,,,,
