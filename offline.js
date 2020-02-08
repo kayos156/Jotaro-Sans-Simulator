@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1581173512,
+	"version": 1581173524,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -76,11 +76,7 @@
 		"Music Files/playerheal.ogg",
 		"Music Files/gasterblast2.ogg",
 		"Music Files/mus_zz_megalovania.ogg",
-		"icon-16.png",
-		"icon-32.png",
-		"icon-114.png",
-		"icon-128.png",
-		"icon-256.png",
+		"icon.png",
 		"loading-logo.png",
 		"sans_intro.csv",
 		"sans_bonegap1.csv",
