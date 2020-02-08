@@ -27,4 +27,10 @@
 0,ANGLE,Ang,$EndX,$EndY,$HeartX,$HeartY,,,
 0,GasterBlaster,1,$X,$Y,$EndX,$EndY,$Ang,0.66666,0.03333
 0.66666,JMPNZ,6,$Loop,,,,,,
+0.6,SansHead,ClosedEyes,,,,,,,
+0,SansText,you are the murderer                killing all innocents                    for no reason.,,,,,,,
+0,SansText,but….,,,,,,,
+0,SansHead,NoEyes,,,,,,,
+0,SansText,now i know that                     we could not have to                     trust humans.,,,,,,,
+0,SansHead,Default,,,,,,,
 0,EndAttack,,,,,,,,
