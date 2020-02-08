@@ -10,6 +10,13 @@ An **[Undertale](undertale.com)** AU crossover game simulator to fight Jotaro Sa
 - Replaced classic **Megalovania** music with **Bizarrovania (Meanwhile In The Judgement)** music.
 - **Sans Head Sprites** was replaced with **Jotaro Sans Head Sprites**.
 
+### Food Items
+- All food items has increased the HP recovery.
+- **Butterscotch Pie** name was changed with **Golden Apple**.
+- **Instant Noodles** name was changed with **Swedish Meatball**.
+- **Face Steak** name was replaced with **Hot Dog**.
+- **Legendary Hero** name was replaced with **Cooked Salmon**.
+
 ## Credits
 - __Textures & Purple Fonts Color__ by **Meekuzo**.
 - __Jotaro Sans Head Sprites__ by **I'mRei**.
