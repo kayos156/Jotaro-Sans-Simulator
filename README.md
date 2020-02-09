@@ -5,7 +5,7 @@ I am actually not good at coding to modify the attacks.
 
 
 ## What's the features you put?
-- Added a few dialogs and modified only 3 Sans attacks.
+- Added a few dialogs and modified some Sans attacks.
 - Changed the font and texture colors.
 - Replaced classic **Megalovania** music with **Bizarrovania (Meanwhile In The Judgement)** music.
 - **Sans Head Sprites** was replaced with **Jotaro Sans Head Sprites**.
