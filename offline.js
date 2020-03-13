@@ -1,5 +1,5 @@
 ﻿{
-	"version": "1.0.0.11-beta",
+	"version": "1.0.0.12-beta",
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
