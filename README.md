@@ -19,6 +19,7 @@ I am actually not good at coding to modify the attacks.
 
 ## Credits
 - __Textures & Purple Fonts Color__ by **Meekuzo**.
+- __Custom Attacks__ by **GCWingo**.
 - __Jotaro Sans Head Sprites__ by **I'mRei**.
 - __Bizarrovania (Meanwhile in the Judgement)__ music by **Genumbra**. -- Can't be found in **SoundCloud**?
 - __Original Sans Fight Simulator__ by **[Jcw87](https://github.com/Jcw87/c2-sans-fight)**.
