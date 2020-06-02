@@ -1,4 +1,4 @@
-## Jotaro Sans Simulator
+## Jotaro Sans Simulator | DOES NOT BELONG TO ME
 An **[Undertale](undertale.com)** AU crossover game simulator to fight Jotaro Sans.
 I am actually not good at coding to modify the attacks.
 
